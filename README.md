@@ -6,3 +6,5 @@ With these endpoints an agent could go through the checkout flow using only retr
 mostly dug deeper to learn more about this:
 
 https://book.hacktricks.wiki/en/network-services-pentesting/pentesting-web/graphql.html#discovering-exposed-graphql-structures
+https://medium.com/@somi1403526/portswigger-exploiting-graphql-api-vulnerabilities-manual-way-burp-suite-community-version-29d3c5bcda6e
+https://www.vaadata.com/blog/exploiting-a-broken-access-control-vulnerability-on-graphql/
