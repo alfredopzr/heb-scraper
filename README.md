@@ -2,9 +2,12 @@ HEB doesn't have documentation on their graphql endpoint - however you can dig t
 
 Testing initially to search for stores by address, browsing the inventory of a specific store via a specific category. Hard coded to 'baking goods' currently, and storeId to the one nearest me. 
 
-With these endpoints an agent could go through the checkout flow using only retrieved data from the queries and make the HTTP requests to fulfill the order. Not sure if HEB means to have these exposed,
+With these endpoints an agent could go through the checkout flow using only retrieved data from the queries and make the HTTP requests to fulfill the order. Not sure if HEB means to have these exposed.
+
 mostly dug deeper to learn more about this:
 
 https://book.hacktricks.wiki/en/network-services-pentesting/pentesting-web/graphql.html#discovering-exposed-graphql-structures
+
 https://medium.com/@somi1403526/portswigger-exploiting-graphql-api-vulnerabilities-manual-way-burp-suite-community-version-29d3c5bcda6e
+
 https://www.vaadata.com/blog/exploiting-a-broken-access-control-vulnerability-on-graphql/
