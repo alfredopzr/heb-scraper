@@ -1,0 +1,351 @@
+{
+  "data": {
+    "searchStoresByAddress": {
+      "stores": [
+        {
+          "distanceMiles": 1.7720132359686556,
+          "nextAvailableTimeslot": {
+            "timeslot": "2025-04-17T19:30:00.000Z"
+          },
+          "store": {
+            "address": {
+              "locality": "MCALLEN",
+              "postalCode": "78501-1926",
+              "region": "TX",
+              "streetAddress": "3200 N. 10TH STREET"
+            },
+            "name": "N 10th and Fern H-E-B",
+            "storeNumber": 212,
+            "__typename": "Store"
+          },
+          "__typename": "StoreResult"
+        },
+        {
+          "distanceMiles": 2.761675096416261,
+          "nextAvailableTimeslot": {
+            "timeslot": "2025-04-17T19:30:00.000Z"
+          },
+          "store": {
+            "address": {
+              "locality": "SAN JUAN",
+              "postalCode": "78589-3734",
+              "region": "TX",
+              "streetAddress": "901 WEST EXPRESSWAY 83"
+            },
+            "name": "San Juan H-E-B plus!",
+            "storeNumber": 38,
+            "__typename": "Store"
+          },
+          "__typename": "StoreResult"
+        },
+        {
+          "distanceMiles": 2.89958735263281,
+          "nextAvailableTimeslot": {
+            "timeslot": "2025-04-17T19:30:00.000Z"
+          },
+          "store": {
+            "address": {
+              "locality": "MCALLEN",
+              "postalCode": "78504-7705",
+              "region": "TX",
+              "streetAddress": "901 TRENTON RD"
+            },
+            "name": "10th and Trenton H-E-B",
+            "storeNumber": 590,
+            "__typename": "Store"
+          },
+          "__typename": "StoreResult"
+        },
+        {
+          "distanceMiles": 3.3535535481178824,
+          "nextAvailableTimeslot": {
+            "timeslot": "2025-04-17T19:30:00.000Z"
+          },
+          "store": {
+            "address": {
+              "locality": "MCALLEN",
+              "postalCode": "78501-2951",
+              "region": "TX",
+              "streetAddress": "200 US EXPRESSWAY 83"
+            },
+            "name": "South 2nd Street H-E-B",
+            "storeNumber": 702,
+            "__typename": "Store"
+          },
+          "__typename": "StoreResult"
+        },
+        {
+          "distanceMiles": 3.527025992980424,
+          "nextAvailableTimeslot": {
+            "timeslot": "2025-04-17T19:30:00.000Z"
+          },
+          "store": {
+            "address": {
+              "locality": "PHARR",
+              "postalCode": "78577-6293",
+              "region": "TX",
+              "streetAddress": "1300 SOUTH CAGE BLVD."
+            },
+            "name": "Pharr H-E-B plus!",
+            "storeNumber": 642,
+            "__typename": "Store"
+          },
+          "__typename": "StoreResult"
+        },
+        {
+          "distanceMiles": 3.87584145602525,
+          "nextAvailableTimeslot": {
+            "timeslot": "2025-04-17T19:30:00.000Z"
+          },
+          "store": {
+            "address": {
+              "locality": "MCALLEN",
+              "postalCode": "78501-3512",
+              "region": "TX",
+              "streetAddress": "3601 PECAN"
+            },
+            "name": "Pecan and Ware H-E-B",
+            "storeNumber": 334,
+            "__typename": "Store"
+          },
+          "__typename": "StoreResult"
+        },
+        {
+          "distanceMiles": 4.140024440347471,
+          "nextAvailableTimeslot": {
+            "timeslot": "2025-04-17T19:30:00.000Z"
+          },
+          "store": {
+            "address": {
+              "locality": "EDINBURG",
+              "postalCode": "78539-7312",
+              "region": "TX",
+              "streetAddress": "2700 W FREDDY GONZALES"
+            },
+            "name": "Edinburg H-E-B",
+            "storeNumber": 431,
+            "__typename": "Store"
+          },
+          "__typename": "StoreResult"
+        },
+        {
+          "distanceMiles": 4.569592388794893,
+          "nextAvailableTimeslot": {
+            "timeslot": null
+          },
+          "store": {
+            "address": {
+              "locality": "EDINBURG",
+              "postalCode": "78539-5664",
+              "region": "TX",
+              "streetAddress": "1212 S CLOSNER BLVD"
+            },
+            "name": "Closner and Baker H-E-B",
+            "storeNumber": 172,
+            "__typename": "Store"
+          },
+          "__typename": "StoreResult"
+        },
+        {
+          "distanceMiles": 5.2644641904870015,
+          "nextAvailableTimeslot": {
+            "timeslot": null
+          },
+          "store": {
+            "address": {
+              "locality": "ALAMO",
+              "postalCode": "78516-2315",
+              "region": "TX",
+              "streetAddress": "1211 EAST FRONTAGE RD."
+            },
+            "name": "Alamo H-E-B",
+            "storeNumber": 421,
+            "__typename": "Store"
+          },
+          "__typename": "StoreResult"
+        },
+        {
+          "distanceMiles": 5.997655644968394,
+          "nextAvailableTimeslot": {
+            "timeslot": "2025-04-17T19:30:00.000Z"
+          },
+          "store": {
+            "address": {
+              "locality": "MISSION",
+              "postalCode": "78572-8354",
+              "region": "TX",
+              "streetAddress": "2409 EAST EXPRESSWAY 83"
+            },
+            "name": "Mission H-E-B plus!",
+            "storeNumber": 94,
+            "__typename": "Store"
+          },
+          "__typename": "StoreResult"
+        },
+        {
+          "distanceMiles": 7.7266523289824445,
+          "nextAvailableTimeslot": {
+            "timeslot": "2025-04-17T19:30:00.000Z"
+          },
+          "store": {
+            "address": {
+              "locality": "PALMHURST",
+              "postalCode": "78573-5070",
+              "region": "TX",
+              "streetAddress": "120 E. MILE 3 RD"
+            },
+            "name": "Palmhurst H-E-B",
+            "storeNumber": 674,
+            "__typename": "Store"
+          },
+          "__typename": "StoreResult"
+        },
+        {
+          "distanceMiles": 7.769707588384724,
+          "nextAvailableTimeslot": {
+            "timeslot": null
+          },
+          "store": {
+            "address": {
+              "locality": "MISSION",
+              "postalCode": "78572-2912",
+              "region": "TX",
+              "streetAddress": "200 EAST GRIFFIN"
+            },
+            "name": "Conway & Griffin Pkwy H-E-B",
+            "storeNumber": 571,
+            "__typename": "Store"
+          },
+          "__typename": "StoreResult"
+        },
+        {
+          "distanceMiles": 8.099935360544064,
+          "nextAvailableTimeslot": {
+            "timeslot": null
+          },
+          "store": {
+            "address": {
+              "locality": "MISSION",
+              "postalCode": "78572-5362",
+              "region": "TX",
+              "streetAddress": "820 S. CONWAY"
+            },
+            "name": "Conway and 9th St H-E-B",
+            "storeNumber": 226,
+            "__typename": "Store"
+          },
+          "__typename": "StoreResult"
+        },
+        {
+          "distanceMiles": 9.712568307745872,
+          "nextAvailableTimeslot": {
+            "timeslot": null
+          },
+          "store": {
+            "address": {
+              "locality": "DONNA",
+              "postalCode": "78537-3148",
+              "region": "TX",
+              "streetAddress": "813 MILLER"
+            },
+            "name": "Donna H-E-B",
+            "storeNumber": 9,
+            "__typename": "Store"
+          },
+          "__typename": "StoreResult"
+        },
+        {
+          "distanceMiles": 11.581507818639144,
+          "nextAvailableTimeslot": {
+            "timeslot": "2025-04-17T19:30:00.000Z"
+          },
+          "store": {
+            "address": {
+              "locality": "PALMVIEW",
+              "postalCode": "78572-9139",
+              "region": "TX",
+              "streetAddress": "6010 W EXPRESSWAY 83"
+            },
+            "name": "Palmview H-E-B",
+            "storeNumber": 448,
+            "__typename": "Store"
+          },
+          "__typename": "StoreResult"
+        },
+        {
+          "distanceMiles": 12.907141898165705,
+          "nextAvailableTimeslot": {
+            "timeslot": "2025-04-17T19:30:00.000Z"
+          },
+          "store": {
+            "address": {
+              "locality": "WESLACO",
+              "postalCode": "78596-2700",
+              "region": "TX",
+              "streetAddress": "310 N. WESTGATE DRIVE"
+            },
+            "name": "83 and Westgate H-E-B",
+            "storeNumber": 485,
+            "__typename": "Store"
+          },
+          "__typename": "StoreResult"
+        },
+        {
+          "distanceMiles": 13.33687637151154,
+          "nextAvailableTimeslot": {
+            "timeslot": null
+          },
+          "store": {
+            "address": {
+              "locality": "ELSA",
+              "postalCode": "78543-9800",
+              "region": "TX",
+              "streetAddress": "512 E. EDINBURG AVE."
+            },
+            "name": "Elsa H-E-B",
+            "storeNumber": 677,
+            "__typename": "Store"
+          },
+          "__typename": "StoreResult"
+        },
+        {
+          "distanceMiles": 13.372045524379697,
+          "nextAvailableTimeslot": {
+            "timeslot": "2025-04-17T19:30:00.000Z"
+          },
+          "store": {
+            "address": {
+              "locality": "WESLACO",
+              "postalCode": "78596-4511",
+              "region": "TX",
+              "streetAddress": "1004 N. TEXAS"
+            },
+            "name": "83 and N Texas H-E-B",
+            "storeNumber": 231,
+            "__typename": "Store"
+          },
+          "__typename": "StoreResult"
+        },
+        {
+          "distanceMiles": 18.33980872734939,
+          "nextAvailableTimeslot": {
+            "timeslot": null
+          },
+          "store": {
+            "address": {
+              "locality": "MERCEDES",
+              "postalCode": "78570-2746",
+              "region": "TX",
+              "streetAddress": "209 N. TEXAS"
+            },
+            "name": "Mercedes H-E-B",
+            "storeNumber": 370,
+            "__typename": "Store"
+          },
+          "__typename": "StoreResult"
+        }
+      ],
+      "__typename": "StoreSearchResponse"
+    }
+  }
+}
